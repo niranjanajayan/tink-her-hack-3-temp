@@ -1,47 +1,25 @@
-# [Project Name] 🎯
+# Body Mass Index(BMI) Calculator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PIXEL PIONEERS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aiswarya S Nair - CET Trivandrum
+- Member 2: Niranjana C Jayan - CET Trivandrum
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+A BMI (Body Mass Index) Calculator project is a simple application designed to calculate an individual's BMI based on their height and weight. The BMI is a commonly used indicator to assess whether a person has a healthy weight for a given height. It helps identify if someone is underweight, normal weight, overweight, or obese.
 
-### The Problem statement
-[What ridiculous problem are you solving?]
-
-### The Solution
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- HTML, CSS, JavaScript
 
 ### Project Documentation
 For Software:
@@ -70,7 +48,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![IMG_20250201_154726](https://github.com/user-attachments/assets/bb759288-d472-4677-a898-e9f06dfa6a69)
+
 
 
 ![Components](Add photo of your components here)
@@ -87,13 +66,10 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aiswarya S Nair : CSS & JavaScript
+- Niranjana C Jayan : HTML & CSS
 
 ---
 Made with ❤️ at TinkerHub
